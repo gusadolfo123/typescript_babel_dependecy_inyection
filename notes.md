@@ -6,3 +6,6 @@
 
 https://lemoncode.net/lemoncode-blog/2020/12/29/nodejs-typescript
 https://haseebmajid.dev/blog/better-imports-with-babel-tspath
+
+npm install --save-dev @babel/plugin-proposal-decorators
+npm install --save-dev babel-plugin-transform-decorators-legacy
